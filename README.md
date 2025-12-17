@@ -77,7 +77,7 @@ Source the workspace:
 source install/setup.bash
 ```
 
-Set the ROS Domain ID (ensure this matches on **all machines**):
+Set the ROS Domain ID (ensure this matches on **all machines**, Ignore this if using Keyboard only):
 
 ```bash
 export ROS_DOMAIN_ID=0
