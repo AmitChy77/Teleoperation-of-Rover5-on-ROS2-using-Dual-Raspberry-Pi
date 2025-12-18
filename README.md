@@ -38,7 +38,7 @@ A ROS 2-based teleoperation robot using a Rover5 2-motor chassis and two Raspber
 
 ## Demo
 
-[![Watch the video](https://img.youtube.com/vi/hqYxNxqYv4o/0.jpg)](https://www.youtube.com/watch?v=hqYxNxqYv4o)
+[![Watch the video](https://img.youtube.com/vi/hqYxNxqYv4o/0.jpg)]([https://www.youtube.com/watch?v=hqYxNxqYv4o](https://youtu.be/FQSc3KhBokg))
 
 ---
 
